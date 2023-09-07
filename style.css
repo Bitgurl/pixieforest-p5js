@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:#E6E6FA;
+}
+canvas {
+  display: block;
+}
+.myDiv {border:1px;
+  background-color:#E6E6FA;
+  text-align:center;
+
+}
